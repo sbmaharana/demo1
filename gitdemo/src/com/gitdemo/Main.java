@@ -6,7 +6,9 @@ public class Main {
 		System.out.println("Hi");
 		Test t = new Test();
 		t.show();
+		t.show();
 		t.disp();
+		
 	}
 
 }

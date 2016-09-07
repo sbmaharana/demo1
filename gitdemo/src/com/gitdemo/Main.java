@@ -7,7 +7,7 @@ public class Main {
 		Test t = new Test();
 		t.disp();
 		t.show();
-		System.out.println("Bye bye");
+		System.out.println("Byee");
 	}
 
 }
